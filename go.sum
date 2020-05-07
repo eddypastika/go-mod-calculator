@@ -1,6 +1,8 @@
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/eddypastika/go-arithmetic v0.0.0-20200506163300-dd1842ee052f h1:z9Amk2/JAlJWu7JKpc3ESguoWUwHIHdan4SsfalivJI=
 github.com/eddypastika/go-arithmetic v0.0.0-20200506163300-dd1842ee052f/go.mod h1:RwK9VburEYHhM4TgsmqunnyQQB6HqaE0AqyY2pOjReA=
+github.com/eddypastika/go-arithmetic v0.1.0 h1:QjBe2hFPuw+0/rbkn2ZK2UoIfw723UpRR6NMSiFLuBs=
+github.com/eddypastika/go-arithmetic v0.1.0/go.mod h1:RwK9VburEYHhM4TgsmqunnyQQB6HqaE0AqyY2pOjReA=
 github.com/labstack/echo v3.3.10+incompatible h1:pGRcYk231ExFAyoAjAfD85kQzRJCRI8bbnE7CX5OEgg=
 github.com/labstack/echo v3.3.10+incompatible/go.mod h1:0INS7j/VjnFxD4E2wkz67b8cVwCLbBmJyDaka6Cmk1s=
 github.com/labstack/gommon v0.3.0 h1:JEeO0bvc78PKdyHxloTKiF8BD5iGrH8T6MSeGvSgob0=
